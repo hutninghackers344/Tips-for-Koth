@@ -2,6 +2,9 @@
 Here i will taught you some basics techniques used in Koth for defending :)
 
 
+![wall](https://github.com/user-attachments/assets/53c4dde6-8bf3-4327-b081-50de8851a3f6)
+
+
 #Using chattr to block write access to king.txt
 --> echo your_username > /root/king.txt
 --> chattr +aie /root/king.txt
